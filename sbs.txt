@@ -3,3 +3,4 @@
 3. model (User model) db:sync, db:seed
 4. repository + teszt user.repository.js + node test parancs
 5. service réteg : utils -> AppError , service - repo függvényhivások
+6. controller 
